@@ -4,8 +4,8 @@ class App extends Component {
   render() {
     return (
  <>
- 
- kjgi;vh;yf;ikyhjkhgghg
+ <h1>hello world</h1>
+
  </>
     );
   }
